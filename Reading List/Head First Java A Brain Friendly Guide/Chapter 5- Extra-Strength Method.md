@@ -12,7 +12,7 @@
 - The enhanced for loop is an easy way to loop over an array or collection.
 - Use the increment operator to add 1 to a variable (x++;).
 - Use the decrement operator to subtract 1 from a variable (x--;).
-- Use break to leave a loop early (i.e., even if the boolean test condition is still true).
+- Use break to leave a loop early (i.e., even if the Boolean test condition is still true).
 ## Important Notes
 ### Test Driven Development 
 It is a programming concept that started 1999 under Extreme Programming (XP) software development methodology world. One of the central ideas in XP was to write test code before writing the actual code. 
