@@ -11,3 +11,5 @@ Categorize entries with tags and automatically capture the date.
 | [[Just another day]]           | March 20, 2024 4:54 PM | Daily                                             |
 | [[28th Birthday]]              | March 20, 2024 4:54 PM | Planning                                          |
 | [[Career Progression]]         | March 20, 2024 4:54 PM | Work                                              |
+| [[Monday, October 14th 2024]]  | October 14, 2024       | Daily                                             |
+|                                |                        |                                                   |

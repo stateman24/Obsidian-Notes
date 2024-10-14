@@ -1,8 +1,9 @@
 ---
 Author: Kathy Sierra, Bert Bates, Trisha Gee
-Completed: Invalid date
-Status: In progress
+Completed: false
+Status: false
 Type: Book
+Rating: ":"
 ---
 > [!important]  
 > Notion Tip: Use this page to keep track of all your notes and highlights. You can also reference other Notion pages by typing the [[ command. Learn more here.  

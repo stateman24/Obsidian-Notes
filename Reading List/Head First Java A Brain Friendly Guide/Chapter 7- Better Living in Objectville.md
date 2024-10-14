@@ -1,3 +1,6 @@
+---
+Score:
+---
 ## Bullet Points
 
 ## Important Notes

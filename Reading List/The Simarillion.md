@@ -1,6 +1,9 @@
 ---
-Status: Not started
-Type: Article
+Author: Toikien
+Completed: false
+Status: false
+Type: Book
+Rating: " ⭐⭐⭐⭐"
 ---
 > [!important]  
 > Notion Tip: Use this page to keep track of all your notes and highlights. You can also reference other Notion pages by typing the [[ command. Learn more here.  
@@ -18,6 +21,7 @@ Type: Article
 [Summary](#Summary)
 
 ## Notes
+
 
 ## Key takeaways
 
