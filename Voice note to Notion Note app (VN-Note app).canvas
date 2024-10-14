@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"dba43e76232af480","type":"text","text":"make a voice to text program ","x":285,"y":-600,"width":250,"height":50,"color":"3"},
+		{"id":"5059c52d3e052989","type":"text","text":"get the voice data and use a transcription app to transcribe the voice ","x":285,"y":-500,"width":250,"height":83,"color":"1"},
+		{"id":"da73c25b11dc460f","type":"text","text":"get notion api to post a note ","x":285,"y":-380,"width":250,"height":60,"color":"5"},
+		{"id":"285ba87a36430794","type":"text","text":"use post method to post the transcribed data to the notion account of the user ","x":285,"y":-260,"width":250,"height":74,"color":"6"}
+	],
+	"edges":[
+		{"id":"e80f326478483454","fromNode":"dba43e76232af480","fromSide":"bottom","toNode":"5059c52d3e052989","toSide":"top"},
+		{"id":"544eab2b6a856603","fromNode":"5059c52d3e052989","fromSide":"bottom","toNode":"da73c25b11dc460f","toSide":"top"},
+		{"id":"97427650257dbfcf","fromNode":"da73c25b11dc460f","fromSide":"bottom","toNode":"285ba87a36430794","toSide":"top"}
+	]
+}

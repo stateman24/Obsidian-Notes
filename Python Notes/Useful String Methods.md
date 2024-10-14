@@ -1,0 +1,6 @@
+- `isX()` method: Some examples are
+- `isahpha()` return True if the string consists only of letters and isn't blank
+- `isalnum()` returns `True` if the string consist of only numeric and letters and is not blank
+- `isdecimal()` returns `True` if the string consist only of decimals
+- `join()` method: is a string method allow a list of strings and returns a single list 
+- `split()` method: this does the opposite of 
