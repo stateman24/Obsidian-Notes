@@ -1,8 +1,11 @@
 ---
 Author: Eric Freeman, Elisabeth Robson
 Score: ⭐️⭐️⭐️⭐️
-Status: Not started
-Type: Book
+Status:
+  - Not started
+Type:
+  - Book
+Expected Completion Date:
 ---
 > [!important]  
 > Notion Tip: Use this page to keep track of all your notes and highlights. You can also reference other Notion pages by typing the [[ command. Learn more here.  

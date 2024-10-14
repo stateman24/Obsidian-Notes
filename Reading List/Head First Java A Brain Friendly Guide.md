@@ -1,6 +1,32 @@
-## Bullet Points
+---
+Author: Kathy Sierra, Bert Bates, Trisha Gee
+Status:
+  - "In progress "
+Type: Book
+Rating: ⭐⭐⭐⭐⭐
+Expected Completion Date: 2024-12-31
+---
+> [!important]  
+> Notion Tip: Use this page to keep track of all your notes and highlights. You can also reference other Notion pages by typing the [[ command. Learn more here.  
+
+  
+
+[![](https://www.notion.so)](https://www.notion.so)
+
+[Notes](#Notes)
+
+[Key takeaways](#Key takeaways)
+
+[Quotes](#Quotes)
+
+[Summary](#Summary)
+
+# Note
+
+## Chapter 5
+### Bullet Points
 - Your Java program should start with a high-level design.
-- ​Typically you’ll write three things when you create a new class: 
+- Typically you’ll write three things when you create a new class: 
   -  prep code  
   - test code  
   - real (Java) code 
@@ -12,9 +38,9 @@
 - The enhanced for loop is an easy way to loop over an array or collection.
 - Use the increment operator to add 1 to a variable (x++;).
 - Use the decrement operator to subtract 1 from a variable (x--;).
-- Use break to leave a loop early (i.e., even if the Boolean test condition is still true).
-## Important Notes
-### Test Driven Development 
+- Use break to leave a loop early (i.e., even if the boolean test condition is still true).
+### Important Notes
+####  Test Driven Development 
 It is a programming concept that started 1999 under Extreme Programming (XP) software development methodology world. One of the central ideas in XP was to write test code before writing the actual code. 
 - [ ]  **Book to check**: Driven Development: By Example by Kent Beck ⏬
 Here is a partial list of key ideas in TDD:
@@ -31,7 +57,7 @@ Three things to do when writing a Java class
 3. Write the actual code 
 ##### Difference between `for` and `while` loop in java
 `while` loop use boolen test and does not have initialization and execution phase as for loop. It good for cases where the amount of iteration is not know and what to keep going until a certain condition is meet. Whereas `for` loop is good for known amounts of loops.
-## Key Code Snippets
+### Key Code Snippets
 #### Sytanx for for loop when looping through an array of objects 
 ```java
 for(int cell : numCells){
@@ -46,3 +72,8 @@ int x = 0; z = x++ // it mean use x and then increment x i.e z is 0 and x is 1
 
 (int) // It is a cast operator to shove big bits to small ones e g. long to int
 ```
+# Key takeaways
+
+# Quotes
+
+# Summary

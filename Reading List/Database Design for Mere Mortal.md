@@ -1,8 +1,8 @@
 ---
 Author: Michelle Poolet
-Completed: Invalid date
 Status: In progress
 Type: Book
+Expected Completion Date:
 ---
 > [!important]  
 > Notion Tip: Use this page to keep track of all your notes and highlights. You can also reference other Notion pages by typing the [[ command. Learn more here.  

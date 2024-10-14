@@ -1,8 +1,8 @@
 ---
 Author: Antonio Mele
-Completed: 2024-07-01
 Status: In progress
 Type: Book
+Expected Completion Date: 2024-07-01
 ---
 > [!important]  
 > Notion Tip: Use this page to keep track of all your notes and highlights. You can also reference other Notion pages by typing the [[ command. Learn more here.  
