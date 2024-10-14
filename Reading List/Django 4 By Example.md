@@ -1,7 +1,7 @@
 ---
 Author: Antonio Mele
 Status: In progress
-Type: Book
+Type: ""
 Expected Completion Date: 2024-07-01
 ---
 > [!important]  

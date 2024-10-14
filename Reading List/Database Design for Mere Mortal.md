@@ -1,7 +1,9 @@
 ---
 Author: Michelle Poolet
-Status: In progress
-Type: Book
+Status:
+  - In progress
+Type:
+  - Book
 Expected Completion Date:
 ---
 > [!important]  

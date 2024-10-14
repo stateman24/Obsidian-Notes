@@ -344,3 +344,7 @@ Here's a versioned, structured timeline for your quiz application development ba
 - **Total Estimated Hours:** 406 hours
 
 This timeline breaks down each version of the app in manageable pieces, allowing you to focus on one set of features at a time. Given your beginner level in Django, the timeline includes room for learning and debugging, ensuring you make steady progress while mastering the tech stack.
+
+
+# Planner
+- [ ] This is shit 3:00 - 5:00 
