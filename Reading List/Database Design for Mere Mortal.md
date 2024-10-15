@@ -4,14 +4,10 @@ Status:
   - In progress
 Type:
   - Book
-Expected Completion Date:
+Expected Completion Date: 
+Current Chapter: 5
 ---
-> [!important]  
-> Notion Tip: Use this page to keep track of all your notes and highlights. You can also reference other Notion pages by typing the [[ command. Learn more here.  
 
-  
-
-[![](https://www.notion.so)](https://www.notion.so)
 
 [Notes](#Notes)
 

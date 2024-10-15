@@ -5,13 +5,9 @@ Status:
 Type: Book
 Rating: ⭐⭐⭐⭐⭐
 Expected Completion Date: 2024-12-31
+Current Chapter: 6
 ---
-> [!important]  
-> Notion Tip: Use this page to keep track of all your notes and highlights. You can also reference other Notion pages by typing the [[ command. Learn more here.  
 
-  
-
-[![](https://www.notion.so)](https://www.notion.so)
 
 [Notes](#Notes)
 
@@ -76,4 +72,6 @@ int x = 0; z = x++ // it mean use x and then increment x i.e z is 0 and x is 1
 
 # Quotes
 
+# Planner
+- [ ] Read Chapter 6 10:00-14:00🔽 ➕ 2024-10-14 🛫 2024-10-16 ⏳ 2024-10-16 📅 2024-10-17
 # Summary

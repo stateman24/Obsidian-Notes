@@ -1,11 +1,12 @@
 ---
 Author: Antonio Mele
-Status: In progress
-Type: ""
-Expected Completion Date: 2024-07-01
+Status:
+  - In progress
+Type:
+  - Book
+Expected Completion Date: 2025-02-28
+Current Chapter: 5
 ---
-> [!important]  
-> Notion Tip: Use this page to keep track of all your notes and highlights. You can also reference other Notion pages by typing the [[ command. Learn more here.  
 
   
 
