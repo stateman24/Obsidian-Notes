@@ -2,7 +2,7 @@
 Date Created: 2024-10-15
 ---
 # Planner
-- [ ] Repair My phone 10:00 - 20:00 ⏫ ➕ 2024-10-15 ⏳ 2024-10-15
+- [x] Repair My phone 10:00 - 20:00 ⏫ ➕ 2024-10-15 ⏳ 2024-10-15  [completion:: 2024-10-15]
 
 # Note
 ## Daily Text Note 
@@ -10,7 +10,7 @@ Date Created: 2024-10-15
 > 📓Do not let the sun set while you are still angry.​—Eph. 4:26.
 > 
 
-Love is the basis for trust. Jehovah is patient with us even when we sin against him. Certainly, then, we can be patient with our brothers if they say or do things that irritate or hurt us. Verse 5 adds: “[Love] does not become provoked. It does not keep account of the injury.” We would not want to make a mental record of our brothers’ offenses for future reference. Instead of focusing on their faults, look for their fine qualities
+Love is the basis for trust. Jehovah is patient with us even when we sin against him. Certainly, then, we can be patient with our brothers if they say or do things that irritate or hurt us. Verse 5 adds: “[Love] does not become provoked. It does not keep account of the injury.” We would not want to make a mental record of our brothers’ offenses for future reference.Instead of focusing on their faults, look for their fine qualities
 
 ## Lessons
 #### [5 Laws of Universe](https://www.instagram.com/reel/C-lvtiGx9fb/?igsh=MXJtZjViOTZlbmU0cg== )
@@ -41,3 +41,4 @@ Love is the basis for trust. Jehovah is patient with us even when we sin against
 4. The Lighthouse method. This involves breaking down the problem into smaller problems by reducing the inputs or solving for small version of the challenge and then build on that solution This method allows the brain to approach problems systematically i.e., step by step, and using this method it creates a mini checkpoints which builds momentum
 # Video of the Day
 
+![](https://youtu.be/mw0LGzIKvoo?si=KN5lAC7yD7sXQ3Kl)
