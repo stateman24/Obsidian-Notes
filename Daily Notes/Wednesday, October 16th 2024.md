@@ -4,7 +4,7 @@ Date Created: 2024-10-16
 # Day Planner
 - [x] Site work 9:00-19:00  [scheduled:: 2024-10-16]  [due:: 2024-10-16]  [completion:: 2024-10-16]
 - [ ] Social Authentication Implementation  [created:: 2024-10-16]  [start:: 2024-10-16]  [scheduled:: 2024-10-16]  [due:: 2024-10-17]
-- [ ] Finish Module 3 of Git and Git Hub on Cousera  [priority:: high]  [created:: 2024-10-16]  [start:: 2024-10-16]  [scheduled:: 2024-10-16]  [due:: 2024-10-17]
+- [x] Finish Module 3 of Git and Git Hub on Cousera  [priority:: high]  [created:: 2024-10-16]  [start:: 2024-10-16]  [scheduled:: 2024-10-16]  [due:: 2024-10-17]  [completion:: 2024-10-16]
 # Note
 ## Daily Text Note
 [Daily Text](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&docid=1102024209&par=48)
