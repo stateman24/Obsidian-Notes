@@ -22,4 +22,4 @@ The book of Daniel reveals the sequence of exciting events that will occur durin
 - ***Step 3***: Then run this command `python manage.py runserver_plus --cert-file cert.crt`
 ### Alternative Method(*Actually working*)
 Step 1: Install `mkcert` using Chocolatey. **Note**: It has been install already. For more information go to check [mkcert](https://github.com/FiloSottile/mkcert) 
-Step 2: Install `django-sslserver`
+Step 2: Then run this command `python manage.py runserver_plus --cert-file cert.pem --key-file key.pem`
