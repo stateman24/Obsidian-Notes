@@ -27,3 +27,14 @@ R exxxxxx t4🤥🤥🤥😌
 
 ### Tuesday 03 June 
 Cement - 7
+
+
+### Wednesday 25 June
+9" - 92
+
+## Friday 27 June 
+4" - 100
+9" - 91
+9 - 70
+## Saturday 28 June 
+9" - 146
