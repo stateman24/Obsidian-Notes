@@ -1,6 +1,6 @@
 ## Cement 
-- Baba Aliya - 3
+- Baba Aliya - 4
 - Baba Ope - 2
-- Mr Adegbo- 6
+- Mr Adegbo- 8
 
-Cement - 25
+Cement - 22
