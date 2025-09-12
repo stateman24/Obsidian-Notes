@@ -1,6 +1,6 @@
 ## Cement
 - Baba Aliya - 7
 - Mr Adeayo - 8
-- Baba Ope - 7
+- Baba Ope - 9
 
-cement- 38
+cement- 36
