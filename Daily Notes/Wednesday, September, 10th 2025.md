@@ -1,6 +1,6 @@
 ## Cement 
 - Baba Aliya - 6
-- Mr Adeayo - 11
+- Mr Adeagbo - 11
 - Baba Ope - 6
 
 ## Block 
