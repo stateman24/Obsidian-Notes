@@ -1,3 +1,4 @@
+#DistributedSystems #SoftwareDevelopment 
 Algorithms for load balancing are strategies for effectively allocating workloads among several servers or resources. 
 Load balancing algorithms can be broadly categorized into two types: 
 1. ***Dynamic load balancing**  
@@ -57,3 +58,5 @@ The Resource-Based Load Balancing algorithm distributes incoming requests based 
 - Useful for applications that perform CPU-intensive or memory-heavy tasks.
 - Works well when servers have different resource levels, as the algorithm adapts to each server’s real-time capacity.
 - Ensures availability by routing requests to the least overloaded servers, reducing downtime risks.
+
+[[Change Data Capture (CDC) Pipeline]]

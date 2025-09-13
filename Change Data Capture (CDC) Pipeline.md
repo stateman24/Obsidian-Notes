@@ -78,3 +78,4 @@ Real-time data synchronization across multiple microservices and data stores. Ub
 Maintaining data consistency between primary databases and data warehouses for analytics.
 - Airbnb uses Debezium, an open-source CDC tool, in combination with Apache Kafka to capture changes from their MySQL databases. These changes are then streamed to their data warehouse and analytical systems for real-time reporting and analysis.
 - Real-time data availability for analytics, reduced latency in data processing, and enhanced decision-making capabilities based on up-to-date data.
+[[Load Balancing Algorithms]]
