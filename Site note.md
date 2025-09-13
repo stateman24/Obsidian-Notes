@@ -29,12 +29,5 @@ R exxxxxx t4🤥🤥🤥😌
 Cement - 7
 
 
-### Wednesday 25 June
-9" - 92
 
-## Friday 27 June 
-4" - 100
-9" - 91
-9 - 70
-## Saturday 28 June 
-9" - 146
+![[Recording 20250902235827.m4a]]

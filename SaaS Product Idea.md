@@ -1,4 +1,4 @@
-A **mobile  for:
+![[]]A **mobile  for:
 
 1. **Real-time Material Inventory Management**
     - Scan/track blocks, cement, steel, etc. (via QR/barcodes or manual entry).
