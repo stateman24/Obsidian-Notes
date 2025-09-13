@@ -1,3 +1,1 @@
 #ziPayProject 
-
-[[SaaS Product Idea]]
