@@ -6,5 +6,10 @@
 
 ## Cement
 - Baba Aliya - 5
-- Remaining Cement in 2nd store - 18
-- 24 + 26
+- Remaining Cement in 2nd store - 17
+- Cement  carried in 2nd Store - 471
+Total cement in 2nd Store - 488 ~ 500 
+
+8035412240
+OPay 
+Ahmed Abolore Abiodun
