@@ -1,3 +1,3 @@
 ## Cement 
-- Adeagbo - 1
-- Baba Ope - 10
+- Adeagbo - 10 ~ 13
+- Baba Ope - 10 
