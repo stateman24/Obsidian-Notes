@@ -1,4 +1,4 @@
-### **Step 1: Define the Problem**
+## **Step 1: Define the Problem**
 
 **Hypothesis:**  
 _Small/mid-sized construction firms in Nigeria struggle with material waste, project delays, and miscommunication due to manual tracking (paper/Excel) and disjointed tools (WhatsApp, calls)._
