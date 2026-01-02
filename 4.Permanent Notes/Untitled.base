@@ -1,8 +1,0 @@
-views:
-  - type: table
-    name: Table
-  - type: cards
-    name: View
-    image: note.tags
-    imageFit: contain
-    cardSize: 90
