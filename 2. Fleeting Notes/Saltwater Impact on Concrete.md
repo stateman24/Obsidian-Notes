@@ -8,7 +8,7 @@ I need to know the recent and current research on the effect of salt water on co
  - enviromental factors like salt water conc, temperature 
  - chloride ions from salt water accelerating reinforcement corrosion 
 
-Possible research gap targets
+Possible research gap targets(Qasim et al., 2020)
 -  Saltwater compositon variation effects 
 - long term durabiliy of concrete strength 
 - influence of enviromental conditions

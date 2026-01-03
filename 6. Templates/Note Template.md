@@ -1,6 +1,6 @@
-# {{title}}
+# **{{title}}**
 
-**Created: {{date}}: {{time}}**
+**Created: {{date}}:{{time}}**
 **Tags:** 
 ____
 

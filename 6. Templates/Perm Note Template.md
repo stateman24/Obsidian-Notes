@@ -1,6 +1,7 @@
-# {{title}}
-**Tags:** 
-**Date Created**: {{date}}: {{time}}
+# **{{title}}**
+
+**Tags**: 
+**Date Created: {{date}}:{{time}}**
 ____
 
 
