@@ -2,7 +2,7 @@
 **Tags:** 
 **Date Created**: {{date}}: {{time}}
 ____
-## Note
+
 
 
 ____
