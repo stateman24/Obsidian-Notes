@@ -1,1 +1,0 @@
-Cement used - 2
