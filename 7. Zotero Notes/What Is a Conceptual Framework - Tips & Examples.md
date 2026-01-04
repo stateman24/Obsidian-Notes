@@ -30,7 +30,7 @@ This article highlights several steps to create a conceptual framework for your 
 
 - Once the research question and variables have been Identified, the first step is construct the conceptual framework is to visualize the expected cause and effect relationship
 
-I**dentify other influencing variables**
+**Identify other influencing variables**
 
 - Along the way identify other variables that can influence the relationship between your variables i.e independent and dependent variable
 - An example of this variables is Moderation variables. This alter he effect of the independent variable has on a dependent variable
