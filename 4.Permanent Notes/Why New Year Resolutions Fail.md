@@ -6,7 +6,7 @@ ____
 2. **No systematic Approach**: Most resolutions fail because there is no underlying system that powers the goal we want to achieve. There is a saying “**Dream needs structure. Strategy bridges intentions and outcome** ”. There has to be a system that powers the goals we want to achieve 
  3. **Motivation fades quickly**: 
 4.  **Willpower is a limited resource**:  
-5. **Life distractions always wins**: If the goal or resolution it not acted upon as soon as it has been made, it is bound to be deprioritized due to other activities or distractions that might come our way
+5. **Life distractions always wins**: If the goal or resolution it not acted upon as soon as it has been made, it is bound to be de-prioritized due to other activities or distractions that might come our way
 
 ____
 ## References / Sources
