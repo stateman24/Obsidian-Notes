@@ -2,7 +2,7 @@
 **Tag**: #d-note
 _______
 ## To-do List
-- [ ] Generate Diagram for Flutterwave integration with CreatorRealm and submit it to the group
+- [x] Generate Diagram for Flutterwave integration with CreatorRealm and submit it to the group
 - [ ] Review Papers on my Research topic 
 - [ ] Read 519 and 503
 - [ ] Convert all Lit notes to permanent notes created today 
