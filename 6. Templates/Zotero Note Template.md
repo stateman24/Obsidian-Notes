@@ -10,3 +10,9 @@ ____
 {% endfor %}
 
 ____ 
+### Annotations
+{% for annotation in annotations %}
+>{{ annotation.annotatedText }}
+
+**Comment**: {{ annotation.comment }}
+{% endfor %}
