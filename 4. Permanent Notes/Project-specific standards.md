@@ -8,3 +8,5 @@ Project specific standards are standards defined by clients consultants or desig
 
 ____
 ## References / Sources
+1. [[Health and Safety on the Construction site]]
+2. [[Why regulating of construction standard is important]]
