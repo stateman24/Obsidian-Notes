@@ -13,3 +13,4 @@ Health and Safety Regulations is meant to provide construction site activities w
 
 ____
 ## References / Sources
+1. [[Types of Health and Safety Regulations]]
