@@ -5,8 +5,8 @@
 ____
 Construction standards are categorized into three major categories:
 
- 1. International standards
- 2. National standards
+ 1. [[International standard]]
+ 2. [[National Standards]]
  3. Project-specific standards 
 ____
 ## References / Sources
