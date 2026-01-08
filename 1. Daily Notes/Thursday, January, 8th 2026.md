@@ -3,7 +3,7 @@
 _______
 ## To-do List 
 - [ ] Review a Paper 
-- [ ] Work on Creator Realm Backend 
+- [x] Work on Creator Realm Backend 
 - [ ] Finish Chapter 4 of 503
 - [ ] Revise 519
 - [ ] Neetcode for 1 hour
