@@ -7,7 +7,7 @@ _______
 - [ ] Finish Chapter 4 of 503
 - [ ] Revise 519
 - [ ] Neetcode for 1 hour
-- [ ] Convert some Lit notes to Perm notes
+- [x] Convert some Lit notes to Perm notes
 ## Daily Text 
 **Scripture**: Rom 12:21
 **Theme**: We should show patience when faced with injustice, especially when it comes from our fellow brothers. We should understand we cannot do without injustice and we should not be surprised when we are victim of one (Eccl. 5:8). To show that we are conquering evil with good when we are faced with injustice is that we need to show patience to our opposers. So if we can show patience to our opposers how much more our fellow brothers, also having the understanding that they imperfect we help us to show patience 
