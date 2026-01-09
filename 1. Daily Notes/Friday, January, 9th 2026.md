@@ -2,7 +2,7 @@
 **Tag**: #d-note
 _______
 ## To-do List 
-- [ ] Review 2 research papers 
+- [x] Review 2 research papers 
 - [ ] Revise 519
 - [x] Work on Creator Realm Backend 
 - [x] Solve 1 Neetcode problem
