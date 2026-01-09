@@ -1,7 +1,7 @@
 # **Encoding vs Encryption vs Hashing**
 
 **Created: 2026-01-09:09:59**
-**Tags:** #hashing #encoding #encryption #computiation #swe
+**Tags:** #hashing #encoding #encryption #computiation #swe #f-notes 
 ____
 - Encryption is an encoding technique in which message is encoded by using an encryption algorithm 
 - Encoding is to transform data into a form that is readable by most of the system or that can be used by any external  process
