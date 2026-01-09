@@ -4,7 +4,7 @@ _______
 ## To-do List 
 - [ ] Review 2 research papers 
 - [ ] Revise 519
-- [ ] Work on Creator Realm Backend 
+- [x] Work on Creator Realm Backend 
 - [x] Solve 1 Neetcode problem
 
 ## Daily Text 
