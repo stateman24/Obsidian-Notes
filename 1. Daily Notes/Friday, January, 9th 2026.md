@@ -5,7 +5,7 @@ _______
 - [ ] Review 2 research papers 
 - [ ] Revise 519
 - [ ] Work on Creator Realm Backend 
-- [ ] Solve 1 Neetcode problem
+- [x] Solve 1 Neetcode problem
 
 ## Daily Text 
 **Scripture**: [John 6:5](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=43006005&pub=nwtsty)
