@@ -1,5 +1,5 @@
 # Friday, January, 9th 2026
-**Tag**: #d-note
+**Tag**: #d-note #prayer #daily-text #paul
 _______
 ## To-do List 
 - [x] Review 2 research papers 

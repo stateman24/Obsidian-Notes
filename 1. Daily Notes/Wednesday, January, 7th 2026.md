@@ -1,5 +1,5 @@
 # Wednesday, January, 7th 2026
-**Tag**: #d-note
+**Tag**: #d-note #daily-text 
 _______
 ## To-do List
 - [x] Generate Diagram for Flutterwave integration with CreatorRealm and submit it to the group
