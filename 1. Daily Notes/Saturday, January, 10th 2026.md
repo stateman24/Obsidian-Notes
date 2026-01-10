@@ -2,10 +2,10 @@
 **Tag**: #d-note #sin #ransom-sacrifice #daily-text #christians 
 _______
 ## To-do List 
-- [ ] Start C project I want to work on
+- [x] Start C project I want to work on
 - [x] Wash my clothes 
-- [ ] Neetcode for 1 hr
-- [ ] Work on Creator Realm Backend 
+- [x] Neetcode for 1 hr
+- [x] Work on Creator Realm Backend 
 - [ ] Review 1 paper 
 
 ## Daily Text 
