@@ -6,7 +6,7 @@ _______
 - [x] Wash my clothes 
 - [x] Neetcode for 1 hr
 - [x] Work on Creator Realm Backend 
-- [ ] Review 1 paper 
+- [x] Review 1 paper 
 
 ## Daily Text 
 **Scripture**: [Romans 6:23](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=45006023&pub=nwtsty)
