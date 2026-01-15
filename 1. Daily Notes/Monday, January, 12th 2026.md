@@ -3,7 +3,7 @@
 _______
 ## To-do List 
 - [x] Leetcode for 1h
-- [ ] Work on creator realm backend 
+- [x] Work on creator realm backend 
 - [x] Review at least a paper 
 - [ ] Work on the C programming project
 - [ ] Read 501 
