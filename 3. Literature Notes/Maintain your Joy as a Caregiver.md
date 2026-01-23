@@ -15,12 +15,14 @@ Joy can help caregivers persevere ([Prov 15:13](https://www.jw.org/finder?srcid=
 - Caregivers may battle intense feelings of guilt or grief
 - At times caregivers make feel they are taken for granted. This may be due to the fact they are rarely appreciated or commended for their hard work. 
 
-### How to remain Joyful 
+### How to remain Joyful as a Caregiver 
 - Being Modest when we know our limit and we are ready to accept help. [Prov 11:2](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=20011002&pub=nwtsty) 
 - Being discerning will allow caregivers to be calm when provoked ([Prov 19:11](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=20019011&pub=nwtsty)). It is important because discernment will help caregivers to try and understand and comprehend the situation of ones they are taking care of. So it always good research on the illness of the one we are taking care of.
 - Find the time to strengthen friendship with Jehovah is equally important to remain joyful as a caregiver. Imitating the example of David can be of help especially in [Psalms 132: 4, 5](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=19132004-19132005&pub=nwtsty). As a caregiver, spare time is usually a luxury due to busy schedules but we are urged to find time for the most important things such as our relationship with Jehovah ([Philippians 1:10](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=50001010&pub=nwtsty))
 - As a caregiver, it is important to find time to take care of one’s health. Having a good rest, exercising and having a good diet can can go a long way 
 - Maintaining a good sense of humor will protect caregiver’s mental health ([Proverbs 17:22](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=50001010&pub=nwtsty))
+- Talking to a trusted friend 
+- Meditate on the future hope of eternal life with the ones being taken care of. Imagining them in good health condition can help caregivers keep their joy. Some of those hope are in [Isaiah 33:24](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=23033024&pub=nwtsty), [65:21](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=23065021&pub=nwtsty) among other promises in the bible
 
 
 ____
