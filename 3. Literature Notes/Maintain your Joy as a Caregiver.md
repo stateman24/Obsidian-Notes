@@ -24,10 +24,13 @@ Joy can help caregivers persevere ([Prov 15:13](https://www.jw.org/finder?srcid=
 - Talking to a trusted friend 
 - Meditate on the future hope of eternal life with the ones being taken care of. Imagining them in good health condition can help caregivers keep their joy. Some of those hope are in [Isaiah 33:24](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=23033024&pub=nwtsty), [65:21](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=23065021&pub=nwtsty) among other promises in the bible.
 ### How can others help caregivers?
-- By helping caregivers get sometimes for themselves by making ourselves available to assist them. The account in [Galatians 6:2](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=48006002&pub=nwtsty) urges us to carry the burden of one an
-
-
+- By helping caregivers get sometimes for themselves by making ourselves available to assist them. The account in [Galatians 6:2](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=48006002&pub=nwtsty) urges us to carry the burden of one another, we can do this by show up to help caregivers have time for themselves as well.
+- By helping them in congregation meetings. we can offer to help by sitting with the caregiver’s loved one during some of these meetings or a portion of them. If the person in need is housebound, you could offer to go to his home and tie in to a meeting with him so that the caregiver can attend the meeting in person
+- Commend them and pray for them[^1]
 
 ____
 ## References
 1. https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&docid=2025642
+2. [[Remember to Pray for Others]]
+
+[^1]: [[Praying for others have a powerful effect]]
