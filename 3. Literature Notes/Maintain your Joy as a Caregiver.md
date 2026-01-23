@@ -1,7 +1,7 @@
 # **Maintain your Joy as a Caregiver**
 
 **Created: 2026-01-18:11:43**
-**Tags:** #watchtower-study #joy 
+**Tags:** #watchtower-study #joy #care-giving 
 ____
 > **FOCUS**
 > How caregiver can cope with the unique challenges they face and maintain joy 
@@ -22,7 +22,10 @@ Joy can help caregivers persevere ([Prov 15:13](https://www.jw.org/finder?srcid=
 - As a caregiver, it is important to find time to take care of one’s health. Having a good rest, exercising and having a good diet can can go a long way 
 - Maintaining a good sense of humor will protect caregiver’s mental health ([Proverbs 17:22](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=50001010&pub=nwtsty))
 - Talking to a trusted friend 
-- Meditate on the future hope of eternal life with the ones being taken care of. Imagining them in good health condition can help caregivers keep their joy. Some of those hope are in [Isaiah 33:24](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=23033024&pub=nwtsty), [65:21](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=23065021&pub=nwtsty) among other promises in the bible
+- Meditate on the future hope of eternal life with the ones being taken care of. Imagining them in good health condition can help caregivers keep their joy. Some of those hope are in [Isaiah 33:24](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=23033024&pub=nwtsty), [65:21](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=23065021&pub=nwtsty) among other promises in the bible.
+### How can others help caregivers?
+- By helping caregivers get sometimes for themselves by making ourselves available to assist them. The account in [Galatians 6:2](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=48006002&pub=nwtsty) urges us to carry the burden of one an
+
 
 
 ____
