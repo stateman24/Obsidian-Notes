@@ -17,6 +17,7 @@ Joy can help caregivers persevere ([Prov 15:13](https://www.jw.org/finder?srcid=
 
 ### How to remain Joyful 
 - Being Modest when we know our limit and we are ready to accept help. [Prov 11:2](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=20011002&pub=nwtsty) 
+- Being discerning will allow caregivers to be calm when provoked ([Prov 19:11](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=20019011&pub=nwtsty)). It is important because discernment will help caregivers to try and understand and comprehend the situation of ones they are taking care of. So it always good research on the illness of the one we are taking care of
 - 
 
 
