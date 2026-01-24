@@ -8,7 +8,6 @@ To ensure [[Movement Regulations on Construction]], some technologies need to be
  - Use of barriers and security fences to deter unauthorized access to specific areas on the construction site. This ensures site privacy and can be achieved using wire mesh.
 - Use of signals and lighting. Proper directional signs and adequate lighting can help in easy navigation within the site. This can be very helpful for first-time visitors on site or delivery personnel unfamiliar with the layout of the site.
 - Physical infrastructures like pedestrian vehicle movements can be used and this is vital for identity density sites where safety increases
-
 ____
 ## References / Sources
 1. 
