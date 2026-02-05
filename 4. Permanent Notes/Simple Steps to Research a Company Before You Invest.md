@@ -12,4 +12,5 @@ Take time to understand what the company does by asking questions like
 
 ____
 ## References / Sources
-1. https://www.linkedin.com/pulse/7-simple-effective-strategies-fully-understand-
+1. [7 Effective way to research on a company](https://www.linkedin.com/pulse/7-simple-effective-strategies-fully-understand-any-company-diaz) 
+2. [[Action Plans for Researching on Companies]]
