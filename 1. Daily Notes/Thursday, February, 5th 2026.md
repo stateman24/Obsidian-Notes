@@ -10,7 +10,8 @@ _______
 
 ## Bible Reading 
 **Portion**: [Romans 3](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=45003000&pub=nwtsty)
-**Lessons**: This passage highlights how observing the law does not mean righteousness rather the law declares us guilty of sin ([Rom 3: 19, 20](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=45003019-45003020&pub=nwtsty)). Why?. Because the law highlight some host of actions, attitude and practices as sinful. Based on this fact those under the law are guilty of sin. So what then makes a man righteous?. Paul in the [Rom 3: 28](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=45003028&pub=nwtsty) make us to understand that a man is declared righteous by faith not by works of law ()
+**Lessons**: This passage highlights how observing the law does not mean righteousness rather the law declares us guilty of sin ([Rom 3: 19, 20](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=45003019-45003020&pub=nwtsty)). Why?. Because the law highlight some host of actions, attitude and practices as sinful. Based on this fact those under the law are guilty of sin. So what then makes a man righteous?. Paul in the [Rom 3: 28](https://www.jw.org/finder?srcid=jwlshare&wtlocale=E&prefer=lang&bible=45003028&pub=nwtsty) make us to understand that a man is declared righteous by faith not by works of law I.e living one’s life in harmony with the law(mosaic law). 
+This passage makes me understand that bases of righteousness is not being a law abiding citizen, good and kind person or morally just but righteousness is based on Faith in God. Hence, this in turn will form the bases of our morality and good nature. In short Faith in God is the foundation of our morality. 
 
 ______
 
