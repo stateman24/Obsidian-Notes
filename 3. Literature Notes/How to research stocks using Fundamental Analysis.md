@@ -26,7 +26,10 @@ At the point SWOT framework will be the framework for taking notes for the compa
 - Cash flow 
 Things to note l: 
 1. Identify the Cumulative Average Growth rate 5 to 15 years range
-2. Common size statement I.e turn income s
+2. Common size statement. For example turn income statement to key figures metrics like total assets, total liability and also derive ratios from the statements to get need insights from the statement 
+3. Peer analysis -> Look into the companies competitors
+4. Check for Red Flags like 
+  - 
 
 ____
 ## References
