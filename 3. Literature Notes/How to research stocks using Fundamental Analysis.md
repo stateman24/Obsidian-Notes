@@ -3,12 +3,15 @@
 **Created: 2026-02-08:14:01**
 **Tags:** #l-notes #stocks #investing 
 ____
-Understand the business 
+### Understand the business 
 - How the company make their money in its departments if it has
 - What are the companies revenue characteristics. Is it seasonal or quarterly etc
 - Location of the companies 
-- Know the key performance indicators of the business 
--
+- Know the key performance indicators of the business.
+At the point SWOT framework will be the framework for taking notes for the company 
+#### Where to get all this info on the company 
+- Company website 
+- 
 
 ____
 ## References
