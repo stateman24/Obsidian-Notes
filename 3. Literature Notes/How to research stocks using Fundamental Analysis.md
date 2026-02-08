@@ -16,11 +16,21 @@ At the point SWOT framework will be the framework for taking notes for the compa
 - NGX (For Nigeria Companies )
 > Make sure to use SWOT framework to take notes
 
-
-
+### Understand the finances
+- Determine the financial health of the company. Use metrics like liquidity, solvency, capital structure 
+- Know the Growth rate
+- Profit margins 
+#### Where to get this info
+- The companies income statement 
+- Balance sheet 
+- Cash flow 
+Things to note l: 
+1. Identify the Cumulative Average Growth rate 5 to 15 years range
+2. Common size statement I.e turn income s
 
 ____
 ## References
 1. [How I research stocks](https://youtu.be/kXYvRR7gV2E?si=HzLE7QQETY0EuQNU)
 2. [[Action Plans for Researching on Companies]]
 3. [[Simple Steps to Research a Company Before You Invest]]
+4. [[Key Indicators to watch to determine a Companies Financial Health]]
