@@ -1,7 +1,7 @@
 # **Conceptual Framework in Research**
 
 **Created: 2026-01-04:20:45**
-**Tags:** #conceptual-framework #research 
+**Tags:** #conceptual-framework #research #l-notes 
 ____
 A conceptual framework makes the case for why a study is significant and relevant and how the study design appropriately and rigorously answers the research questions.
 

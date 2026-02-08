@@ -1,7 +1,7 @@
 # One Thing 2026
 
 **Created: 2026-01-03: 08:02**
-**Tags:** #goals #life
+**Tags:** #goals #life #l-notes 
 **Author**: Tayo Oyedeji
 ____
 *How much progress will make by focusing on one strategic thing for an entire year?*

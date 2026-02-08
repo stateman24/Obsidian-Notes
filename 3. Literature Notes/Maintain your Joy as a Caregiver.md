@@ -1,7 +1,7 @@
 # **Maintain your Joy as a Caregiver**
 
 **Created: 2026-01-18:11:43**
-**Tags:** #watchtower-study #joy #care-giving 
+**Tags:** #watchtower-study #joy #care-giving #l-notes 
 ____
 > **FOCUS**
 > How caregiver can cope with the unique challenges they face and maintain joy 
