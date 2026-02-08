@@ -8,10 +8,16 @@ ____
 - What are the companies revenue characteristics. Is it seasonal or quarterly etc
 - Location of the companies 
 - Know the key performance indicators of the business.
+- The industry landscape of the companies and competitions
 At the point SWOT framework will be the framework for taking notes for the company 
 #### Where to get all this info on the company 
 - Company website 
-- 
+- Good old google search 
+- NGX (For Nigeria Companies )
+> Make sure to use SWOT framework to take notes
+
+
+
 
 ____
 ## References
