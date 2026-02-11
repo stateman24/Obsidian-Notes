@@ -29,7 +29,12 @@ Things to note l:
 2. Common size statement. For example turn income statement to key figures metrics like total assets, total liability and also derive ratios from the statements to get need insights from the statement 
 3. Peer analysis -> Look into the companies competitors
 4. Check for Red Flags like 
-  - 
+  - Related party transactions 
+  - Management Compensation
+  - Conflict of Interest 
+  Tools to use
+  - Data terminals like koyfin
+  - Peer comparison Scoreboard 
 
 ____
 ## References
